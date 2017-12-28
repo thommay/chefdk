@@ -1,0 +1,10 @@
+[package]
+name = "chefdk"
+version = "0.1.0"
+authors = ["Thom May <thom@may.lt>"]
+
+[dependencies]
+chef = "*"
+chef_api = "*"
+clap = "*"
+serde_json = "*"
